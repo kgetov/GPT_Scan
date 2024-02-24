@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://ftp.jgood.io/sitemap.xml
+Sitemap: https://ftp.jgood.iositemap.xml
